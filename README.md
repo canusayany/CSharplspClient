@@ -1,0 +1,2 @@
+# CSharplspClient
+Use omniSharp.
